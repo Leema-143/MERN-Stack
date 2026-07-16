@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    background-color: aliceblue;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color:aqua;
+    margin: 10px;
+    color: black;
+}
